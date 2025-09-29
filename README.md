@@ -45,7 +45,7 @@ Stop recording → Press 'q'
 
 **▶️ Usage**
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/screen-recorder.git
+git clone https://github.com/Mithcodes007/screen-recorder.git
 cd screen-recorder
 
 2️⃣ Install Dependencies
